@@ -15,6 +15,13 @@ btn.addEventListener("click", () => {
 for (let i = 0; i < myLeads.length; i++) {
 
     listItems += `<li>" ${myLeads[i]} </li>`
+
+    listItems += `    
+        <li>
+            <a href="${myLeads}" target="_blank"> ${myLeads[i]} </a>
+        </li>
+    `
+
 }
 
 ulEl.innerHTML = listItems

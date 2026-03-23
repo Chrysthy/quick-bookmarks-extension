@@ -4,6 +4,7 @@ const btn = document.getElementById("input-btn")
 const ulEl = document.getElementById("ul-el")
 let listItems = ""
 
+
 btn.addEventListener("click", () => { 
 
     myLeads.push(inputEl.value)
@@ -13,6 +14,7 @@ btn.addEventListener("click", () => {
 })
 
 for (let i = 0; i < myLeads.length; i++) {
+    let listItems = ""
 
     listItems += `<li>" ${myLeads[i]} </li>`
 

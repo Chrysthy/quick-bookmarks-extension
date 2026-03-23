@@ -17,10 +17,9 @@ if (leadsFromLocalStorage) {
 
 function render(leads) {
     
+    let listItems = ""
+
     for (let i = 0; i < leads.length; i++) {
-        let listItems = ""
-    
-        listItems += `<li>" ${leads[i]} </li>`
     
         listItems += `    
             <li>

@@ -16,3 +16,19 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
+
+<br>
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://chrysthy.github.io/quick-leads-extension/">
+    <img src="https://img.shields.io/badge/Live%20Demo-GitHub-success?labelColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Tip: Use right-click → “Open in new tab”.</sub>
+</p>
+
+<br>

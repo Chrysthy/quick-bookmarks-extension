@@ -40,3 +40,12 @@
 </p>
 
 <br>
+
+## 🛠 Technologies
+
+- HTML5  
+- CSS3
+- JavaScript (Vanilla)
+- Git and GitHub
+
+<br>

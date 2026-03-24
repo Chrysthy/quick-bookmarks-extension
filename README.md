@@ -21,7 +21,7 @@
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://chrysthy.github.io/quick-leads-extension/">
+  <a href="https://chrysthy.github.io/quick-bookmarks-extension/">
     <img src="https://img.shields.io/badge/Live%20Demo-GitHub-success?labelColor=black" />
   </a>
 </p>

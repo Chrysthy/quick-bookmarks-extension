@@ -45,6 +45,8 @@
 - HTML5  
 - CSS3
 - JavaScript (Vanilla)
+- Chrome Extension API for browser features
+- Local Storage for data persistence
 - Git and GitHub
 
 <br>

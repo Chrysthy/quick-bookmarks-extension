@@ -51,7 +51,13 @@
 
 ## ✨ Features
 
-- 
+- **One-Click Tab Saving** - Instantly capture and save the current browser tab as a lead.
+- **Manual Lead Entry** - Easily add new leads by pasting any URL.
+- **Local Persistence** - All data is securely stored in the browser using local storage (no backend required).
+- **Organized Lead Management** - Access all saved links in a clean, structured, and clickable list.
+- **Quick Deletion (Double-Click)** - clear all stored data with a simple double-click action.
+- **Lightweight & Fast** - Optimized for performance with a minimal and responsive UI.
+- **Seamless Chrome Integration** – Accessible directly from the browser extension popup.
 
 <br>
 

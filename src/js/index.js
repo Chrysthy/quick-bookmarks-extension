@@ -4,7 +4,8 @@ const inputEl = document.getElementById("input-el")
 const btn = document.getElementById("input-btn") 
 const ulEl = document.getElementById("ul-el")
 const deleteBtn = document.getElementById("delete-btn")
-const leadsFromLocalStorage = JSON.parse( localStorage.getItem("myLeads") )
+const leadsFromLocalStorage = JSON.parse(localStorage.getItem("myLeads"))
+const tabBtn = document.getElementById("tab-btn")
 
 
 if (leadsFromLocalStorage) {
@@ -12,6 +13,16 @@ if (leadsFromLocalStorage) {
 
     render(myLeads)
 }
+
+
+const tabs = [
+    {url: "https://www.linkedin.com/in/per-harald-borgen/"}
+]
+
+tabBtn.addEventListener("click", () => {
+    console.log(tabs[0].url)
+})
+
 
 
 

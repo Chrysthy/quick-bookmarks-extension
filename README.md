@@ -75,6 +75,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Chrysthy/quick-leads-extension.git
+```
 
 Or download it as a ZIP:
 
@@ -93,7 +94,7 @@ Select the project folder
 The extension will appear in your Chrome toolbar
 Click the icon to open the popup and start saving bookmarks
 
-###💡 Tip
+### 💡 Tip
 
 If you make changes to the code:
 

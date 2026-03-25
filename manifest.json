@@ -4,7 +4,7 @@
     "name": "Quick Leads",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "img/icon.png"
+        "default_icon": "src/img/icon.png"
     },
     "permissions": [
         "tabs"

@@ -7,6 +7,7 @@
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run">How to Run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support">Support</a>
@@ -60,6 +61,45 @@
 - **Quick Deletion (Double-Click)** - clear all stored data with a simple double-click action.
 - **Lightweight & Fast** - Optimized for performance with a minimal and responsive UI.
 - **Seamless Chrome Integration** – Accessible directly from the browser extension popup.
+
+
+<br>
+
+## ⚙ How to Run
+
+Follow these steps to run the extension locally:
+
+### Get the project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Chrysthy/quick-leads-extension.git
+
+Or download it as a ZIP:
+
+1. Click on the green Code button
+Select Download ZIP and extract the files on your computer
+
+2. Open Chrome Extensions
+Go to: chrome://extensions/
+Enable Developer mode (top right corner)
+
+3. Load the extension
+Click on Load unpacked
+Select the project folder
+
+4. Start using
+The extension will appear in your Chrome toolbar
+Click the icon to open the popup and start saving bookmarks
+
+###💡 Tip
+
+If you make changes to the code:
+
+Go back to chrome://extensions/
+Click Reload on the extension
+
 
 <br>
 

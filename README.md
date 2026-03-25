@@ -98,8 +98,8 @@ Click the icon to open the popup and start saving bookmarks
 
 If you make changes to the code:
 
-Go back to chrome://extensions/
-Click Reload on the extension
+- Go back to chrome://extensions/
+- Click Reload on the extension
 
 
 <br>
